@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 function latihancHAT() {
   rl.question("Kamu: ", async (input) => {
     if (input.toLowerCase() === "exit") {
-      console.log("You");
+      console.log("see you !");
       rl.close();
       return;
     }
