@@ -1,6 +1,6 @@
 const readline = require("readline");
 const axios = require("axios");
-//bulan juli
+//youuu mAkkke mmmmEee sTronggggg
 
 const rl = readline.createInterface({
   input: process.stdin,
